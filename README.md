@@ -1,4 +1,4 @@
-### Raspberry Pi Torrent Telegram Bot
+### Telegram Bot for Torrents management
 
 With this bot you can manage your torrents in Transmission BitTorrent client through Telegram Bot.
 
