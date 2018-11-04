@@ -1,10 +1,10 @@
 ### Raspberry Pi Torrent Telegram Bot
 
-With this bot you can manage your torrents in Transmission BitTorrent client on RaspberryPi through Telegram Bot.
+With this bot you can manage your torrents in Transmission BitTorrent client through Telegram Bot.
 
 ## Introduction
 ---
-Let's assume you have RaspberryPi with Transmission on it at home.
+Let's assume you have either laptop/pc or RaspberryPi with Transmission daemon started on it at home.
 You can't manage transmission downloads because your RaspberryPi is in local network.
 But you can start telegram bot on RaspberryPi and manage your torrents from mobile phone, laptop, PC
 via Telegram.
